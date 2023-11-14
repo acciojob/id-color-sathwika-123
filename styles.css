@@ -1,1 +1,22 @@
-/*  your css code here. If applicable */
+/* Your CSS Code here */
+
+#yellow {
+    background: yellow;
+    border: 1px solid green;
+}
+
+#red {
+    background: red;
+    border: 1px solid black;
+}
+
+#green {
+    background: green;
+    border: 1px solid yellow;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
